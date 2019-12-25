@@ -16,8 +16,8 @@
                 set { group = value; }
             }
 
-            private int room;
-            public int Room
+            private string room;
+            public string Room
             {
                 get { return room; }
                 set { room = value; }
