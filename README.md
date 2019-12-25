@@ -2,7 +2,7 @@
         /// </summary>
         public class Student
         {
-            private string name;
+            private int name;
             public string Name
             {
                 get { return name; }
