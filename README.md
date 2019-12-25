@@ -29,5 +29,5 @@
                 get { return inventory; }
                 set { inventory = value; }
             }
-            
+            public static Student studen = new Student();
         }
