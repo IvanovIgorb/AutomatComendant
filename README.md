@@ -30,5 +30,5 @@
                 set { inventory = value; }
             }
             public static Student studen = new Student();
-            public int t = 1;
+            public static List<string> studentsList = new List<string>();
         }
