@@ -31,8 +31,11 @@
             }
             public static Student studen = new Student();
 <<<<<<< HEAD
+<<<<<<< HEAD
             public int t = 1;
 =======
             public static List<string> studentsList = new List<string>();
 >>>>>>> 618442c43aa3e99a697c3f2abdfe169abc3262c3
+=======
+>>>>>>> master
         }
