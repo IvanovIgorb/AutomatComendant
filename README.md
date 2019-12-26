@@ -3,7 +3,7 @@
         public class Student
         {
             private int name;
-            public string Name
+            public int Name
             {
                 get { return name; }
                 set { name = value; }
