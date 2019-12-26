@@ -30,5 +30,5 @@
                 set { inventory = value; }
             }
             public static Student studen = new Student();
-            public double t = 0,1;
+            public int t = 1;
         }
