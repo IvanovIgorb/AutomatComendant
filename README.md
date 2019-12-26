@@ -2,7 +2,10 @@
         /// </summary>
         public class Student
         {
+<<<<<<< HEAD
             private string name;
+=======
+>>>>>>> 344f2dfdf4d1e28348752f9baeb4dff9a97f8507
             public int Name
             {
                 get { return name; }
