@@ -3,7 +3,7 @@
         public class Student
         {
             private int name;
-            public int Name
+            public string Name
             {
                 get { return name; }
                 set { name = value; }
@@ -30,5 +30,5 @@
                 set { inventory = value; }
             }
             public static Student studen = new Student();
-            public static List<string> students = new List<string>();
+            public double t = 0,1;
         }
