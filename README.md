@@ -2,8 +2,8 @@
         /// </summary>
         public class Student
         {
-            private int name;
-            public string Name
+            private string name;
+            public int Name
             {
                 get { return name; }
                 set { name = value; }
