@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\bin\Debug\Automat_comendant.exe.config
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\bin\Debug\Automat_comendant.exe
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\bin\Debug\Automat_comendant.pdb
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Form2.resources
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Form3.resources
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Form4.resources
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Properties.Resources.resources
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.exe
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.pdb
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Main_Form.resources
+C:\Users\1\source\repos\Automat_comendant\Automat_comendant\obj\Debug\Automat_comendant.Form5.resources
